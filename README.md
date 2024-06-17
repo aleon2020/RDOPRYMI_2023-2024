@@ -32,6 +32,4 @@ Una vez se ha realizado la práctica, se entregarán a través del Aula Virtual 
 
 ## 5. Otros recursos
 
-### 5.1 Comprobador de capturas de tráfico
-
-[https://mobiquo.gsyc.urjc.es/check](https://www.aulavirtual.urjc.es/moodle/mod/url/view.php?id=9188007)
+[COMPROBADOR DE CAPTURAS DE TRÁFICO](https://mobiquo.gsyc.urjc.es/check)
