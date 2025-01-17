@@ -6,6 +6,20 @@ A continuación se detallan brevemente todos los contenidos que se encuentran en
 
 IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO SUBIDO A ESTE REPOSITORIO (O SI HAY ALGUNA DUDA EN CUANTO A COMPRENSIÓN), DÉJAME UN ISSUE Y TRATARÉ DE RESOLVER EL PROBLEMA LO ANTES POSIBLE. NO TE OLVIDES DEJARME UNA STAR Y ESPERO QUE TODO ESTE MATERIAL TE SEA DE GRAN AYUDA.
 
+Clona este repositorio ejecutando el siguiente comando:
+
+```sh
+git clone https://<token>@github.com/aleon2020/RDOPRYMI_2023-2024.git
+```
+
+IMPORTANTE: Añade tu token tal y como se muestra. Esto se hace con el objetivo de no tener que introducir el token en la terminal cada vez que se quiera actualizar el repositorio utilizando el comando 'git pull'.
+
+Si ya has clonado este repositorio, ejecuta el siguiente comando antes de que empieces a trabajar con él, ya que pueden haberse añadido nuevos cambios o modificaciones. Esto se hace con el objetivo de asegurarte de que tienes clonada la versión más reciente del repositorio:
+
+```sh
+git pull
+```
+
 ## 1. Diapositivas utilizadas en clase
 
 Directorio ['Diapositivas FDRDO'](https://github.com/aleon2020/RDOPRYMI_2023-2024/tree/main/Diapositivas%20FDRDO): Dentro de este directorio se encuentran las diapositivas utilizadas en la asignatura de Fundamentos de Redes de Ordenadores, la cual se cursa en segundo y comprende los conceptos básicos de todo lo que se verá en esta asignatura.
