@@ -26,17 +26,13 @@ Directorio ['Diapositivas FDRDO'](https://github.com/aleon2020/RDOPRYMI_2023-202
 
 Directorio ['Diapositivas Teoría'](https://github.com/aleon2020/RDOPRYMI_2023-2024/tree/main/Diapositivas%20Teor%C3%ADa): Dentro de este directorio se encuentran las diapositivas utilizadas en clase para abordar los contenidos teóricos de la asignatura.
 
-## 2. Exámenes de años anteriores
-
-Directorio ['Exámenes de Años Anteriores'](https://github.com/aleon2020/RDOPRYMI_2023-2024/tree/main/Ex%C3%A1menes%20de%20A%C3%B1os%20Anteriores): Este directorio incluye exámenes resueltos tanto de la primera como de la segunda parte de la asignatura, además de boletines de preguntas de exámenes separadas por temas, y un índice en el que se explica brevemente el enunciado de todas y cada una de estas preguntas.
-
-## 3. Prácticas
+## 2. Prácticas
 
 Directorio ['Prácticas'](https://github.com/aleon2020/RDOPRYMI_2023-2024/tree/main/Pr%C3%A1cticas): Este directorio contiene todas y cada una de las prácticas realizadas en la asignatura, las cuales incluyen el enunciado de la misma, el listado de los comandos necesarios para realizar cada una de ellas, ambos en formato PDF, y su respectivo escenario de NETGUI. Y lo más importante, los ficheros correspondientes a las capturas de tráfico solicitados en cada práctica, además de los scripts utilizados para realizar las prácticas 3 y 4, y por último, una memoria en formato PDF en la que se explica detalladamente qué comandos se han utilizado y cómo se han realizado todos y cada uno de los apartados de cada práctica.
 
 IMPORTANTE: Para hacer uso del índice interactivo que viene implementado en cada una de las memorias, debes descargar el documento en formato PDF.
 
-## 4. Método de entrega de prácticas
+## 3. Método de entrega de prácticas
 
 Una vez se ha realizado la práctica, se entregarán a través del Aula Virtual los siguientes ficheros:
 
@@ -44,6 +40,6 @@ Una vez se ha realizado la práctica, se entregarán a través del Aula Virtual 
 
 - Fichero pX.zip resultado de comprimir una carpeta de nombre pX que contiene en su interior los ficheros de captura de tráfico captura-X.cap hasta captura-Y.cap.
 
-## 5. Otros recursos
+## 4. Otros recursos
 
 [COMPROBADOR DE CAPTURAS DE TRÁFICO](https://mobiquo.gsyc.urjc.es/check)
